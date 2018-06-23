@@ -1,0 +1,14 @@
+.header{
+  width: 92vw;
+  height: 7vh;
+  background-color: black;
+  color: white;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  padding-left: 2vw;
+  font-size: 23;
+  font-family: Arial;
+  font-weight: bold;
+  justify-content: left;
+}
